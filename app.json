@@ -1,0 +1,1 @@
+{"name":"single table","repository":"https://github.com/initialversion/single-table-1476366410","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
